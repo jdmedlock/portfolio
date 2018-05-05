@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100');
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
   align-items: center;
   margin: 0 auto 0 auto;
   width: 80%;
@@ -17,7 +17,7 @@ header {
 
 .udacity-logo {
   height: auto;
-  width: 25em;
+  width: 20em;
 }
 
 .heading-text {
@@ -28,13 +28,29 @@ header {
 .page-title {
   color: #2d3c49;
   font-size: 3.5em;
-  letter-spacing: .1em;
+  font-weight: 100;
+  margin: .2em auto .2em auto;
 }
 
 .page-subtitle {
   color: #2d3c49;
-  font-size: 22px;
+  font-size: 1.25em;
+  margin: 0 auto 1em auto;
+}
+
+.banner-logo img {
+  height: 400px;
+  width: 100%;
+  margin: 10px auto auto auto;
+}
+
+.section-title {
+  color: #2d3c49;
+  font-size: 2em;
   font-weight: bold;
-  line-height: 22px;
-  margin: auto auto 1em auto;
+  margin: 1em auto 1em auto;
+}
+
+.featured-work article img {
+  width: 33%;
 }
