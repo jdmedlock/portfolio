@@ -60,7 +60,7 @@ there's no Javascript employed since the site is static.
 | Technology/Library                             | Purpose                    |
 |:-----------------------------------------------|:---------------------------|
 | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | Web page styling & RWD  |
-| [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML | Web page markup |
+| [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | Web page markup |
 
 ### Git Branches
 
