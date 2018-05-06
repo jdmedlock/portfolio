@@ -21,6 +21,10 @@ a:visited {
   text-decoration: none;
 }
 
+ul {
+  padding-left: 1.5em;
+}
+
 /* Page Heading */
 
 header {
@@ -71,6 +75,13 @@ header {
   margin: 10px auto auto auto;
 }
 
+.splash-credit {
+  font-size: small;
+  text-align: end;
+  margin: 0 0 0 0;
+  width: 100;
+}
+
 .section-title {
   color: #7d97ad;
   font-size: 2em;
@@ -85,7 +96,8 @@ header {
 
 .featured-work article img {
   border: thin solid #2d3c49;
-  width: 32%;
+  margin: auto auto .5em auto;
+  width: 32.3%;
 }
 
 /* Page Footer Elements */
