@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,500,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,500,700');
 
 /* Common page elements */
 
@@ -82,11 +82,16 @@ header {
   width: 100;
 }
 
-.section-title {
+.article-title {
   color: #7d97ad;
   font-size: 2em;
   font-weight: bold;
   margin: .5em auto .5em auto;
+}
+
+.article-text {
+  font-size: 1em;
+  font-weight: 300;
 }
 
 .featured-work {
