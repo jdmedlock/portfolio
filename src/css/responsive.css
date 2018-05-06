@@ -1,0 +1,47 @@
+@media screen and (min-width: 320px) and (max-width: 376px) {
+  .featured-work article img {
+    width: 48%;
+  }
+
+  .footer-wrapper {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  body {
+    width: 95%;
+  }
+
+  .heading-logo {
+    width: 1.5em;
+  }
+
+  .page-title {
+    font-size: 1.5em;
+    margin: auto auto auto auto;
+  }
+
+  .page-subtitle {
+    font-size: .5em;
+    margin: 0 auto 0 auto;
+  }
+
+  .splash-image img {
+    height: 200px;
+  }
+
+  .section-title {
+    font-size: 1em;
+  }
+
+  .footer-wrapper {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 426px) and (max-width: 769px) {
+  .footer-wrapper {
+    width: 50%;
+  }
+}
