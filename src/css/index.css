@@ -101,8 +101,8 @@ header {
 
 .featured-work article img {
   border: thin solid #2d3c49;
-  margin: auto auto .5em auto;
-  width: 32.3%;
+  margin: auto 1.5em 1.5em auto;
+  width: 30%;
 }
 
 /* Page Footer Elements */
